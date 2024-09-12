@@ -1,7 +1,6 @@
 ## Yeni Oladejo
 
-Welcome to my portfolio! My name is Yeni and I'm an aspiring Data Analyst that has recently completed a 12-week Data Technician bootcamp. I'm currently looking for a an entry level data analyst role or an apprenticeship. I hope to continue building my porfolio and grow my creative and anayltical skills. I have experience with key software such as Microsoft Excel, Tableau and Power BI. 
-
+Welcome to my portfolio! My name is Yeni and I'm an aspiring Data Analyst that has recently completed a 12-week Data Technician bootcamp. Throughout the bootcamp I learned to use key software such as Microsoft Excel, Power BI, and Tableau. I also have experience with programming languages R and Python. I'm currently looking for a an entry level data analyst role or an apprenticeship. I hope to continue building my porfolio and grow my creative and anayltical skills. 
 
 ## Tech-Stack 
 
