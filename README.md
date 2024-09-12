@@ -1,6 +1,6 @@
 ## Yeni Oladejo
 
-Hi, my name is Yeni and I'm an aspiring Data Analyst. Welcome to my portfolio! I've recently completed a 12-week Data Technician bootcamp and I'm looking to grow my creative and anayltical skills. 
+Welcome to my portfolio! My name is Yeni and I'm an aspiring Data Analyst that has recently completed a 12-week Data Technician bootcamp. I'm currently looking for a an entry level data analyst role or an apprenticeship. I hope to continue building my porfolio and grow my creative and anayltical skills. I have experience with key software such as Microsoft Excel, Tableau and Power BI. 
 
 
 ## Tech-Stack 
